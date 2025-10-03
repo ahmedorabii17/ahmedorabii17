@@ -15,7 +15,6 @@ jobs:
           github_user_name: ahmedorabii17
           outputs: dist/snake.svg
           palette: tokyonight
-          nb_dots: 4500   # هنا زودت عدد النقاط اللي التعبان بيجمعها
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
