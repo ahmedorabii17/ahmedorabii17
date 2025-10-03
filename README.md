@@ -75,9 +75,8 @@ I’m open to work on:
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/ahmedorabii17/ahmedorabii17/blob/output/dist/snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/ahmedorabii17/ahmedorabii17/output/snake.svg" alt="Snake animation" />
 </p>
-
 
 ---
 
